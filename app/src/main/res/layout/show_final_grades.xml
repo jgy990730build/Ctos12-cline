@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/student" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_search_category_default" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="你的期末成绩为："
+        android:textSize="12pt"
+        android:textColor="#87CEEB"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:shadowColor="#949494"
+        android:shadowDx="5.0"
+        android:shadowDy="5.0"
+        android:shadowRadius="3.0"/>
+
+    <TextView
+        android:id="@+id/final_grades"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/et_shape"
+        android:gravity="center"
+        android:text="100"
+        android:textColor="#CD0000"
+        android:textSize="16pt"
+        android:textStyle="bold" />
+
+</LinearLayout>

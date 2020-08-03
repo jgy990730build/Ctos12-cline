@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">评分系统</string>
+    <string name="action_settings">用户信息</string>
+    <string name="out">退出登录</string>
+    <string name="login_text">登录</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="title">欢迎来到管理系统</string>
+    <string name="title_1">赶紧来工作吧</string>
+    <string name="username_hide">请输入用户名</string>
+    <string name="password_hide">请输入密码</string>
+    <string name="title_2">欢迎回来</string>
+    <string name="title_3">你接下来的操作是？</string>
+    <string name="str1">查询学生成绩</string>
+    <string name="str2">审核成绩</string>
+    <string name="str3">帮助</string>
+    <string name="str4">退出</string>
+    <string name="str5">设置</string>
+    <string name="str6">综合测评情况</string>
+    <string name="str7">填写加分项</string>
+    <string name="str8">查询成绩</string>
+    <string name="str9">欢迎使用</string>
+    <string name="str10">学生成绩如下：</string>
+    <string name="str11">你的学生提交的信息如下：</string>
+    <string name="str12">点击可知详情</string>
+    <string name="add1">参加活动的加分</string>
+    <string name="add2">学生干部加分</string>
+    <string name="add3">比赛证书加分</string>
+    <string name="button_one">审核</string>
+    <string name="Prove">证明</string>
+    <string name="title_4">根据学生姓名查询成绩</string>
+    <string name="title_5">成绩如下</string>
+</resources>
